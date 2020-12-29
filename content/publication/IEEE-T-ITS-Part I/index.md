@@ -36,7 +36,7 @@ abstract: Testing and evaluation is a critical step in the development and deplo
 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Testing and evaluation is a critical step in the development and deployment of connected and automated vehicles (CAVs), and yet there is no systematic framework to generate testing scenario library. This study aims to provide a general framework for the testing scenario library generation (TSLG) problem with different operational design domains (ODDs), CAV models, and performance metrics.
 
 tags: []
 

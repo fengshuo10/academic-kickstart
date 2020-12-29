@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shuo Feng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctorial Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Civil and Environmental Engineering, University of Michigan, Ann Arbor
+  url: https://cee.engin.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shuo Feng received the bachelor's and Ph.D. degrees in department of automation, Tsinghua University, China, in 2014 and 2019, respectively. He was also a joint Ph.D. student in civil and environmental engineering with University of Michigan, Ann Arbor, MI, USA, from 2017 to 2019, where he is currently a Post-Doctoral Researcher.	He received the Best Ph.D. Dissertation Award from the IEEE Intelligent Transportation Systems Society in 2020. His current research interests include testing, evaluation, and optimization of connected and automated vehicles.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

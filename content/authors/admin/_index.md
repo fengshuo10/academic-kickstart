@@ -6,7 +6,7 @@ title: Shuo Feng
 superuser: true
 
 # Role/position/tagline
-role: Postdoctorial Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:

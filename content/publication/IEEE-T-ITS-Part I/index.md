@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Intelligent Transportation Systems*
-publication_short: In *IEEE T-ITS*
+publication_short: In *IEEE Transactions on Intelligent Transportation Systems*
 
 abstract: Testing and evaluation is a critical step in the development and deployment of connected and automated vehicles (CAVs), and yet there is no systematic framework to generate testing scenario library. This study aims to provide a general framework for the testing scenario library generation (TSLG) problem with different operational design domains (ODDs), CAV models, and performance metrics. Given an ODD, the testing scenario library is defined as a critical set of scenarios that can be used for CAV test. Each testing scenario is evaluated by a newly proposed measure, scenario criticality, which can be computed as a combination of maneuver challenge and exposure frequency. To search for critical scenarios, an auxiliary objective function is designed, and a multi-start optimization method along with seed-filling is applied. Theoretical analysis suggests that the proposed framework can obtain accurate evaluation results with much fewer number of tests, if compared with the on-road test method. In part II of the study, three case studies are investigated to demonstrate the proposed method. Reinforcement learning based technique is applied to enhance the searching method under high-dimensional scenarios.
 

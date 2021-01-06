@@ -30,10 +30,10 @@ experience:
     date_end: ''
     description: 
 
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: Department of Automation, Tsinghua University
     company_url: ''
-    location: California
+    location: China
     date_start: '2014-07-01'
     date_end: '2017-10-31'
 ---

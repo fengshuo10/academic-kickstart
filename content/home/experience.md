@@ -25,15 +25,14 @@ experience:
   - title: Postdoctoral Research Fellow
     company: Civil and Environmental Engineering, University of Michigan, Ann Arbor
     company_url: 'https://cee.engin.umich.edu/'
-    location: Michigan
+    location:
     date_start: '2019-11-01'
     date_end: ''
     description: 
 
   - title: Research Assistant
-    company: Department of Automation, Tsinghua University
+    company: Department of Automation, Tsinghua University, China
     company_url: ''
-    location: China
     date_start: '2014-07-01'
     date_end: '2017-10-31'
 ---

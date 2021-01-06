@@ -18,7 +18,7 @@ bio: My research interests include connected and automated vehicle testing and e
 
 # Interests to show in About widget
 interests:
-- [Connected and Automated Vehicle Testing and Evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation)
+- Connected and Automated Vehicle Testing and Evaluation
 - Cooperative Automation
 - Traffic Behavior Modeling
 
@@ -79,4 +79,4 @@ I am a post-doctoral research fellow at the [Michigan Traffic Lab](https://traff
 I received the bachelor's and Ph.D. degrees in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/), China, in 2014 and 2019, respectively, advised by Prof. Yi Zhang. 
 I was also a visiting Ph.D. student in Civil and Environmental Engineering with University of Michigan, Ann Arbor, from 2017 to 2019, advised by Prof. Henry X. Liu.	
 I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation) in 2020. 
-My current research interests include testing, evaluation, and optimization of connected and automated vehicles.
+My current research interests include [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation).

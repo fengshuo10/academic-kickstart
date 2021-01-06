@@ -76,7 +76,7 @@ highlight_name: false
 ---
 
 I am a post-doctoral research fellow at the [Michigan Traffic Lab](https://traffic.engin.umich.edu/) of the University of Michigan, Ann Arbor, working with [Prof. Henry X. Liu](https://traffic.engin.umich.edu/). 
-I received the bachelor's and Ph.D. degrees in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/), China, in 2014 and 2019, respectively, advised by Prof. Yi Zhang. 
-I was also a visiting Ph.D. student in Civil and Environmental Engineering with University of Michigan, Ann Arbor, from 2017 to 2019, advised by Prof. Henry X. Liu.	
+I received the bachelor's and Ph.D. degrees in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/), China, in 2014 and 2019, respectively, advised by [Prof. Yi Zhang](http://www.au.tsinghua.edu.cn/info/1084/1701.htm). 
+I was also a visiting Ph.D. student in Civil and Environmental Engineering with University of Michigan, Ann Arbor, from 2017 to 2019, advised by [Prof. Henry X. Liu](https://traffic.engin.umich.edu/).	
 I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation) in 2020. 
-My current research interests include [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation).
+My current research interests include [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation), cooperative automation, and traffic environment modeling.

@@ -76,4 +76,7 @@ highlight_name: false
 ---
 
 I am a post-doctoral research fellow at the [Michigan Traffic Lab](https://traffic.engin.umich.edu/) of the University of Michigan, Ann Arbor, working with [Prof. Henry X. Liu](https://traffic.engin.umich.edu/). 
-I received the bachelor's and Ph.D. degrees in the Department of Automation at Tsinghua University, China, in 2014 and 2019, respectively. He was also a visiting Ph.D. student in civil and environmental engineering with University of Michigan, Ann Arbor, MI, USA, from 2017 to 2019, where he is currently a Post-Doctoral Researcher.	He received the Best Ph.D. Dissertation Award from the IEEE Intelligent Transportation Systems Society (ITSS) in 2020. His current research interests include testing, evaluation, and optimization of connected and automated vehicles.
+I received the bachelor's and Ph.D. degrees in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/), China, in 2014 and 2019, respectively, advised by Prof. Yi Zhang. 
+I was also a visiting Ph.D. student in Civil and Environmental Engineering with University of Michigan, Ann Arbor, from 2017 to 2019, advised by Prof. Henry X. Liu.	
+I received the [Best Ph.D. Dissertation Award](https://www.ieee-itss.org/awards-best-dissertation) from the IEEE Intelligent Transportation Systems Society (ITSS) in 2020. 
+My current research interests include testing, evaluation, and optimization of connected and automated vehicles.

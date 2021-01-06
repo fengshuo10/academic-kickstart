@@ -35,4 +35,10 @@ experience:
     company_url: ''
     date_start: '2014-07-01'
     date_end: '2017-10-31'
+
+  - title: Research Assistant
+    company: Department of Automation, Tsinghua University, China
+    company_url: ''
+    date_start: '2000-07-01'
+    date_end: '2010-10-31'
 ---

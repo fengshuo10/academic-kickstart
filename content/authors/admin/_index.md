@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Control Science and Engineering
+    institution: Tsinghua University
+    year: 2019
+  - course: Visiting Scholar in Civil and Environmental Engineering
+    institution: University of Michigan, Ann Arbor
+    year: 2017-2019
+  - course: BSc in Automation
+    institution: Tsinghua University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

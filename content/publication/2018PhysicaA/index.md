@@ -37,7 +37,7 @@ abstract: Long-range temporal dependence is an important research perspective fo
 
 
 # Summary. An optional shortened abstract.
-summary: In this study, the authors compare the influence of different data reformatting, archive the bursts defined before in descending order with respect to the absolute value of the burst points and propose a flexible compression framework to balance between burst components and low-dimensional intra-day trend.
+summary: Both the daily and long-range temporal dependence exert considerable influence on the traffic flow series. The daily temporal dependence creates crossover phenomenon when estimating the Hurst. PCA-based method turns out to be a better method to extract the daily temporal dependence.
 
 
 tags: []

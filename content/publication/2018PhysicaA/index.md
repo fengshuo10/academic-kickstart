@@ -1,13 +1,13 @@
 ---
-title: "Traffic flow data compression considering burst components"
+title: "A better understanding of long-range temporal dependence of traffic flow time series"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shuo Feng
-- Ruimin Ke
 - Xingmin Wang
+- Haowei Sun
 - Yi Zhang
 - Li Li
 
@@ -16,8 +16,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2017-11-01T00:00:00Z"
-doi: "10.1049/iet-its.2016.0328"
+date: "2018-02-01T00:00:00Z"
+doi: "10.1016/j.physa.2017.10.006"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2020-02-13T00:00:00Z"
@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *IET Intelligent Transport Systems*
 publication_short: In *IET Intelligent Transport Systems*
 
-abstract: Many recent applications of intelligent transportation systems require both real-time and network-wide traffic flow data as input. However, as the detection time and network size increase, the data volume may become very large in terms of both dimension and scale. To address this concern, various traffic flow data compression methods have been proposed, which archive the low-dimensional subspace rather than the original data. Many studies have shown the traffic flow data consist of different components, i.e. low-dimensional intra-day trend, Gaussian type fluctuation and burst components. Existing compression methods cannot compress the burst components well and provide very limited choices of compression ratio (CR). A better compression method should have the ability to archive all the dominant information in different components of traffic flow data. In this study, the authors compare the influence of different data reformatting, archive the bursts defined before in descending order with respect to the absolute value of the burst points and propose a flexible compression framework to balance between burst components and low-dimensional intra-day trend. Experimental results show that the proposed framework promotes the reconstruction accuracy significantly. Moreover, the proposed framework provides more flexible choices with respect to CR, which can benefit a variety of applications.
+abstract: Long-range temporal dependence is an important research perspective for modelling of traffic flow time series. Various methods have been proposed to depict the long-range temporal dependence, including autocorrelation function analysis, spectral analysis and fractal analysis. However, few researches have studied the daily temporal dependence (i.e. the similarity between different daily traffic flow time series), which can help us better understand the long-range temporal dependence, such as the origin of crossover phenomenon. Moreover, considering both types of dependence contributes to establishing more accurate model and depicting the properties of traffic flow time series. In this paper, we study the properties of daily temporal dependence by simple average method and Principal Component Analysis (PCA) based method. Meanwhile, we also study the long-range temporal dependence by Detrended Fluctuation Analysis (DFA) and Multifractal Detrended Fluctuation Analysis (MFDFA). The results show that both the daily and long-range temporal dependence exert considerable influence on the traffic flow series. The DFA results reveal that the daily temporal dependence creates crossover phenomenon when estimating the Hurst exponent which depicts the long-range temporal dependence. Furthermore, through the comparison of the DFA test, PCA-based method turns out to be a better method to extract the daily temporal dependence especially when the difference between days is significant.
 
 
 

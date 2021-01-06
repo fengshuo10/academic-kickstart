@@ -36,7 +36,7 @@ publication_short: In *IEEE Transactions on Control Systems Technology*
 abstract: Cooperative adaptive cruise control (CACC) is a promising intelligent vehicle technology for improving traffic flow stability, throughput, and safety. One major control objective of CACC is to guarantee L p string stability, i.e., L p -norm measured disturbance is uniformly bounded along the vehicle string. Most existing methods for string stability are laborious for implementation without considering either heterogeneous disturbances (e.g., tracking errors and unmodeled dynamics) or saturation constraints (e.g., input saturation). The decentralized model predictive control (MPC) method, which is a widely used feedforward control for string stability, suffers the burdens of computation cost and intervehicular communication. To fill these gaps, we distinguish different types of disturbances and use different ways to handle them. We use feedforward control for large yet infrequent disturbances and feedback control for small yet frequent disturbances. Different from MPC, our feedforward control is event-triggered so that the intervehicle communication and planning costs can be significantly reduced. Different from pure robust feedback control, our combination of feedback and feedforward control could reduce the conservation of the controller. Theoretical analysis and simulations show that the proposed method guarantees L p string stability of vehicle platoons considering heterogeneous disturbances and saturation constraints.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Most existing methods for string stability are laborious for implementation without considering either heterogeneous disturbances (e.g., tracking errors and unmodeled dynamics) or saturation constraints (e.g., input saturation). We use feedforward control for large yet infrequent disturbances and feedback control for small yet frequent disturbances. Different from MPC, our feedforward control is event-triggered so that the intervehicle communication and planning costs can be significantly reduced. Different from pure robust feedback control, our combination of feedback and feedforward control could reduce the conservation of the controller.
 
 tags: []
 
@@ -62,7 +62,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

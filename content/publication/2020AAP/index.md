@@ -30,8 +30,8 @@ doi: "10.1016/j.aap.2020.105664"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Intelligent Transportation Systems*
-publication_short: In *IEEE Transactions on Intelligent Transportation Systems*
+publication: In *Accident Analysis & Prevention*
+publication_short: In *Accident Analysis & Preventions*
 
 abstract: Among the three major safety assessment methods (i.e., simulation, test track, and on-road test) for highly automated driving systems (ADS), test tracks provide high fidelity and a safe and controllable testing environment. However, due to the lack of realistic background traffic, scenarios that can be tested in test tracks are usually static and limited. To address this limitation, a new safety assessment framework is proposed in this paper, which integrates an augmented reality (AR) testing platform and a testing scenario library generation (TSLG) method. The AR testing platform generates simulated background traffic in test tracks, which interact with subject ADS under test, to create a realistic traffic environment. The TSLG method can systematically generate a set of critical scenarios under each operational design domain (ODD) and the critical scenarios generated from the TSLG method can be imported into the AR testing platform. The proposed framework has been implemented in the Mcity test track at the University of Michigan with a Level 4 ADS. Field test results show that the proposed framework can accurately and efficiently evaluate the safety performance of highly ADS in a cost-effective fashion. In the cut-in case study, the proposed framework is estimated to accelerate the assessment process by  times comparing to the on-road test approach.
 

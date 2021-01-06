@@ -31,14 +31,14 @@ experience:
     description: 
 
   - title: Research Assistant
-    company: Department of Automation, Tsinghua University, China
-    company_url: ''
-    date_start: '2014-07-01'
-    date_end: '2017-10-31'
+    company: Civil and Environmental Engineering, University of Michigan, Ann Arbor
+    company_url: 'https://cee.engin.umich.edu/'
+    date_start: '2018-06-01'
+    date_end: '2019-10-31'
 
   - title: Research Assistant
     company: Department of Automation, Tsinghua University, China
     company_url: ''
-    date_start: '2000-07-01'
-    date_end: '2010-10-31'
+    date_start: '2014-07-01'
+    date_end: '2017-10-31'
 ---

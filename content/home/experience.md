@@ -28,13 +28,8 @@ experience:
     location: Michigan
     date_start: '2019-11-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+    description: 
+
   - title: Professor
     company: University X
     company_url: ''

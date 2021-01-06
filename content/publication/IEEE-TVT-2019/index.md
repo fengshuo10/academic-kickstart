@@ -1,24 +1,22 @@
 ---
-title: "Tube-Based Discrete Controller Design for Vehicle Platoons Subject to Disturbances and Saturation Constraints"
+title: "A Cooperative Driving Strategy for Merging at On-Ramps Based on Dynamic Programming"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Huaxin Pei
 - Shuo Feng
-- Haowei Sun
 - Yi Zhang
-- Jianfeng Zheng
-- Henry X. Liu
-- Li Li
+- Danya Yao
 
 # Author notes (optional)
 # author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2019-02-18T00:00:00Z"
-doi: "10.1109/TCST.2019.2896539"
+date: "2019-10-14T00:00:00Z"
+doi: "10.1109/TVT.2019.2947192"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2020-02-13T00:00:00Z"
@@ -30,13 +28,16 @@ doi: "10.1109/TCST.2019.2896539"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Control Systems Technology*
-publication_short: In *IEEE Transactions on Control Systems Technology*
+publication: In *IEEE Transactions on Vehicular Technology*
+publication_short: In *IEEE Transactions on Vehicular Technology*
 
-abstract: Cooperative adaptive cruise control (CACC) is a promising intelligent vehicle technology for improving traffic flow stability, throughput, and safety. One major control objective of CACC is to guarantee L p string stability, i.e., L p -norm measured disturbance is uniformly bounded along the vehicle string. Most existing methods for string stability are laborious for implementation without considering either heterogeneous disturbances (e.g., tracking errors and unmodeled dynamics) or saturation constraints (e.g., input saturation). The decentralized model predictive control (MPC) method, which is a widely used feedforward control for string stability, suffers the burdens of computation cost and intervehicular communication. To fill these gaps, we distinguish different types of disturbances and use different ways to handle them. We use feedforward control for large yet infrequent disturbances and feedback control for small yet frequent disturbances. Different from MPC, our feedforward control is event-triggered so that the intervehicle communication and planning costs can be significantly reduced. Different from pure robust feedback control, our combination of feedback and feedforward control could reduce the conservation of the controller. Theoretical analysis and simulations show that the proposed method guarantees L p string stability of vehicle platoons considering heterogeneous disturbances and saturation constraints.
+abstract: Cooperative driving emerges as a promising way to improve efficiency and safety for Connected and Automated Vehicles (CAVs). Its key idea is to design a strategy to schedule the movements of neighboring vehicles. The typical cooperative driving strategies can be categorized into two categories. The first category is optimal strategy, which aims to find the globally optimal passing order of vehicles, but the computational cost of this strategy grows significantly with the increasing number of vehicles. The second category is sub-optimal strategy, which uses heuristic rules or other methods to export an acceptable local optimal solution within a limited computation time. However, there usually lacks a rigorous theoretical guarantee of the performances, and further validation is always required for practical applications. To overcome all these limitations, a computationally efficient strategy is proposed to obtain the globally optimal passing order based on dynamic programming (DP). Specifically, the problem of merging at on-ramps is resolved by a DP method, which uses the domain knowledge to reduce the complexity by well defining the state space, state transition, and criterion function. With the DP method, it is proved that the globally optimal passing order can be obtained with the quadratic polynomial computational complexity of O(N 2 ), where N denotes the number of vehicles. Simulation results demonstrate the performances of the proposed strategy regarding optimality and efficiency.
+
 
 # Summary. An optional shortened abstract.
-summary: Most existing methods for string stability are laborious for implementation without considering either heterogeneous disturbances (e.g., tracking errors and unmodeled dynamics) or saturation constraints (e.g., input saturation). We use feedforward control for large yet infrequent disturbances and feedback control for small yet frequent disturbances. Different from MPC, our feedforward control is event-triggered so that the intervehicle communication and planning costs can be significantly reduced. Different from pure robust feedback control, our combination of feedback and feedforward control could reduce the conservation of the controller.
+summary: A computationally efficient strategy is proposed to obtain the globally optimal passing order based on dynamic programming (DP). Specifically, the problem of merging at on-ramps is resolved by a DP method, which uses the domain knowledge to reduce the complexity by well defining the state space, state transition, and criterion function. With the DP method, it is proved that the globally optimal passing order can be obtained with the quadratic polynomial computational complexity of O(N 2 ), where N denotes the number of vehicles. 
+
+
 
 tags: []
 

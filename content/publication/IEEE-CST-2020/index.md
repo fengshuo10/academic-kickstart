@@ -6,19 +6,19 @@ title: "Safety assessment of highly automated driving systems in test tracks: A 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Shuo Feng
-- Yiheng Feng
-- Xintao Yan
-- Shengyin Shen
-- Shaobing Xu
+- Haowei Sun
+- Yi Zhang
+- Jianfeng Zheng
 - Henry X. Liu
+- Li Li
 
 # Author notes (optional)
 # author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-09-01T00:00:00Z"
-doi: "10.1016/j.aap.2020.105664"
+date: "2019-02-18T00:00:00Z"
+doi: "10.1109/TCST.2019.2896539"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2020-02-13T00:00:00Z"
@@ -30,13 +30,14 @@ doi: "10.1016/j.aap.2020.105664"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Accident Analysis & Prevention*
-publication_short: In *Accident Analysis & Preventions*
+publication: In *IEEE Transactions on Control Systems Technology*
+publication_short: In *IEEE Transactions on Control Systems Technology*
 
-abstract: Among the three major safety assessment methods (i.e., simulation, test track, and on-road test) for highly automated driving systems (ADS), test tracks provide high fidelity and a safe and controllable testing environment. However, due to the lack of realistic background traffic, scenarios that can be tested in test tracks are usually static and limited. To address this limitation, a new safety assessment framework is proposed in this paper, which integrates an augmented reality (AR) testing platform and a testing scenario library generation (TSLG) method. The AR testing platform generates simulated background traffic in test tracks, which interact with subject ADS under test, to create a realistic traffic environment. The TSLG method can systematically generate a set of critical scenarios under each operational design domain (ODD) and the critical scenarios generated from the TSLG method can be imported into the AR testing platform. The proposed framework has been implemented in the Mcity test track at the University of Michigan with a Level 4 ADS. Field test results show that the proposed framework can accurately and efficiently evaluate the safety performance of highly ADS in a cost-effective fashion. In the cut-in case study, the proposed framework is estimated to accelerate the assessment process by  times comparing to the on-road test approach.
+abstract: Cooperative adaptive cruise control (CACC) is a promising intelligent vehicle technology for improving traffic flow stability, throughput, and safety. One major control objective of CACC is to guarantee L p string stability, i.e., L p -norm measured disturbance is uniformly bounded along the vehicle string. Most existing methods for string stability are laborious for implementation without considering either heterogeneous disturbances (e.g., tracking errors and unmodeled dynamics) or saturation constraints (e.g., input saturation). The decentralized model predictive control (MPC) method, which is a widely used feedforward control for string stability, suffers the burdens of computation cost and intervehicular communication. To fill these gaps, we distinguish different types of disturbances and use different ways to handle them. We use feedforward control for large yet infrequent disturbances and feedback control for small yet frequent disturbances. Different from MPC, our feedforward control is event-triggered so that the intervehicle communication and planning costs can be significantly reduced. Different from pure robust feedback control, our combination of feedback and feedforward control could reduce the conservation of the controller. Theoretical analysis and simulations show that the proposed method guarantees L p string stability of vehicle platoons considering heterogeneous disturbances and saturation constraints.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a new safety assessment framework for highly automated driving systems in test tracks. The framework integrates an augmented reality testing platform and a testing scenario library generation method together. The framework has been implemented in Mcity test facility with a SAE Level-4 ADS vehicle. The framework can accelerate the assessment process by multiple orders of magnitude comparing to the on-road test approach.
+summary: 
+
 tags: []
 
 # Display this page in the Featured widget?

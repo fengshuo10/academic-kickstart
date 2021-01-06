@@ -7,7 +7,7 @@ title: "Testing Scenario Library Generation for Connected and Automated Vehicles
 authors:
 - Shuo Feng
 - Yiheng Feng
-- Haowei Sun
+- Chunhui Yu
 - Yi Zhang
 - Henry X. Liu
 

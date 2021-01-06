@@ -29,8 +29,8 @@ doi: "10.1016/j.physa.2017.10.006"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IET Intelligent Transport Systems*
-publication_short: In *IET Intelligent Transport Systems*
+publication: In *Physica A: Statistical Mechanics and its Applications*
+publication_short: In *Physica A: Statistical Mechanics and its Applications*
 
 abstract: Long-range temporal dependence is an important research perspective for modelling of traffic flow time series. Various methods have been proposed to depict the long-range temporal dependence, including autocorrelation function analysis, spectral analysis and fractal analysis. However, few researches have studied the daily temporal dependence (i.e. the similarity between different daily traffic flow time series), which can help us better understand the long-range temporal dependence, such as the origin of crossover phenomenon. Moreover, considering both types of dependence contributes to establishing more accurate model and depicting the properties of traffic flow time series. In this paper, we study the properties of daily temporal dependence by simple average method and Principal Component Analysis (PCA) based method. Meanwhile, we also study the long-range temporal dependence by Detrended Fluctuation Analysis (DFA) and Multifractal Detrended Fluctuation Analysis (MFDFA). The results show that both the daily and long-range temporal dependence exert considerable influence on the traffic flow series. The DFA results reveal that the daily temporal dependence creates crossover phenomenon when estimating the Hurst exponent which depicts the long-range temporal dependence. Furthermore, through the comparison of the DFA test, PCA-based method turns out to be a better method to extract the daily temporal dependence especially when the difference between days is significant.
 

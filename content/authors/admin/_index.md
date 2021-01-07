@@ -20,7 +20,7 @@ bio: My research interests include connected and automated vehicle testing and e
 interests:
 - Connected and Automated Vehicle Testing and Evaluation
 - Cooperative Automation
-- Traffic Behavior Modeling
+- Traffic Environment Modeling
 
 # Education to show in About widget
 education:

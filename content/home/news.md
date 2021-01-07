@@ -15,6 +15,7 @@ design:
   columns: '1'
   
 ---
+* **2020/10**: I will give an online spotlight presentation titled "Testing Scenario Library Generation for Connected and Automated Vehicles" at the award session of the [2020 IEEE Intelligent Vehicles (IV) Symposium](https://2020.ieee-iv.org/program/).
 * **2020/09**: I will give an online talk titled "Autonomous Vehicles Safety Assessment Simulation (ASAS) Platform Based on SUMO and CARLA" at the [2020 IEEE Intelligent Transportation Systems (ITSC) Workshop](https://ziranw.github.io/itsc2020workshop/).
 * **2020/09**: [Paper](https://ieeexplore.ieee.org/document/9204818) "Testing Scenario Library Generation for Connected and Automated Vehicles: An Adaptive Framework" is accepted by *IEEE Transactions on Intelligent Transportation Systems*.
 * **2020/09**: I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation)

@@ -12,7 +12,9 @@ title: 'News'
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
   
 ---
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+1. hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+2. jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj

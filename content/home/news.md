@@ -15,7 +15,5 @@ design:
   columns: '1'
   
 ---
-* hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-* **09/08/2020** I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation)
+* **09/08/2020**: I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation)
 for my dissertaion, "Testing Scenario Library Generation for Connected and Automated Vehicles."

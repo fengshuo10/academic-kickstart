@@ -6,7 +6,7 @@ title: "A Cooperative Driving Strategy for Merging at On-Ramps Based on Dynamic 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Huaxin Pei
-- Shuo Feng
+- Shuo Feng*
 - Yi Zhang
 - Danya Yao
 

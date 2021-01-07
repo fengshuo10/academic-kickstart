@@ -15,5 +15,6 @@ design:
   columns: '1'
   
 ---
+* **09/23/2020**: [Paper](https://ieeexplore.ieee.org/document/9204818) "Testing Scenario Library Generation for Connected and Automated Vehicles: An Adaptive Framework" is accepted by *IEEE Transactions on Intelligent Transportation Systems*.
 * **09/08/2020**: I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation)
 for my dissertaion, "Testing Scenario Library Generation for Connected and Automated Vehicles."

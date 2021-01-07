@@ -35,3 +35,5 @@ design:
   view: 3
   columns: '2'
 ---
+
+For the complete list of my publication, please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=kb0Ky3QAAAAJ).

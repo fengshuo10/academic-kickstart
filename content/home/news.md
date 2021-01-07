@@ -15,6 +15,6 @@ design:
   columns: '2'
   
 ---
-1. hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+* hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-2. jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+* jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj

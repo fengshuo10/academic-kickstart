@@ -35,7 +35,7 @@ abstract: Cooperative driving emerges as a promising way to improve efficiency a
 
 
 # Summary. An optional shortened abstract.
-summary: A computationally efficient strategy is proposed to obtain the globally optimal passing order based on dynamic programming (DP). Specifically, the problem of merging at on-ramps is resolved by a DP method, which uses the domain knowledge to reduce the complexity by well defining the state space, state transition, and criterion function. With the DP method, it is proved that the globally optimal passing order can be obtained with the quadratic polynomial computational complexity of O(N 2 ), where N denotes the number of vehicles. 
+summary: A computationally efficient strategy is proposed to obtain the globally optimal passing order based on dynamic programming (DP). Specifically, the problem of merging at on-ramps is resolved by a DP method, which uses the domain knowledge to reduce the complexity by well defining the state space, state transition, and criterion function. With the DP method, it is proved that the globally optimal passing order can be obtained with the quadratic polynomial computational complexity of O(N^2), where N denotes the number of vehicles. 
 
 
 

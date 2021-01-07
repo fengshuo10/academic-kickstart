@@ -25,14 +25,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D., Control Science and Engineering, Tsinghua University
-    institution: 
+  - course: Ph.D. in Control Science and Engineering
+    institution: Tsinghua University
     year: 2019
-  - course: Visiting Scholar, Civil and Environmental Engineering, University of Michigan, Ann Arbor
-    institution: 
+  - course: Visiting Scholar in Civil and Environmental Engineering
+    institution: University of Michigan, Ann Arbor
     year: 2017-2019
-  - course: B.S., Automation, Tsinghua University
-    institution: 
+  - course: B.S. in Automation
+    institution: Tsinghua University
     year: 2014
 
 # Social/Academic Networking

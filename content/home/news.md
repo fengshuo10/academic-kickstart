@@ -15,6 +15,7 @@ design:
   columns: '1'
   
 ---
+* **2021/01**: [Paper](https://www.nature.com/articles/s41467-021-21007-8) "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" is accepted by *Nature Communications*.
 * **2020/12**: I will give an invited lecture titled "Testing and Evaluation of Connected and Automated Vehicles" at CEE 551 - Traffic Science at the University of Michigan, Ann Arbor.
 * **2020/10**: I will give an online spotlight presentation titled "Testing Scenario Library Generation for Connected and Automated Vehicles" at the award session of the [2020 IEEE Intelligent Vehicles (IV) Symposium](https://2020.ieee-iv.org/program/).
 * **2020/09**: I will give an online talk titled "Autonomous Vehicles Safety Assessment Simulation (ASAS) Platform Based on SUMO and CARLA" at the [2020 IEEE Intelligent Transportation Systems (ITSC) Workshop](https://ziranw.github.io/itsc2020workshop/).

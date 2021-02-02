@@ -1,8 +1,4 @@
-% Encoding: UTF-8
-
-@Comment{jabref-meta: databaseType:bibtex;}
-
-{feng2020testingII,
+@article{feng2020testingII,
   title={Testing scenario library generation for connected and automated vehicles, Part II: Case Studies},
   author={Feng, Shuo and Feng, Yiheng and Sun, Haowei and Bao, Shan and Zhang, Yi and Liu, Henry X},
   journal={IEEE Transactions on Intelligent Transportation Systems},

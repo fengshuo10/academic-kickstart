@@ -15,7 +15,7 @@ design:
   columns: '1'
   
 ---
-* **2021/01**: [Paper](https://www.nature.com/articles/s41467-021-21007-8) "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" is accepted by *[Nature Communications](https://www.nature.com/ncomms/)*. It has been selected as a featured artical at an [Editors' Highlights called "AI and machine learning"](https://www.nature.com/collections/ceiajcdbeb). 
+* **2021/01**: [Paper](https://www.nature.com/articles/s41467-021-21007-8) "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" is accepted by *[Nature Communications](https://www.nature.com/ncomms/)*. It has been selected as a featured artical at [Editors' Highlights of "AI and machine learning"](https://www.nature.com/collections/ceiajcdbeb). 
 The aim of [Editors' Highlights](https://www.nature.com/ncomms/editorshighlights) page is to select a small number of articales recently published in Nature Communications that they believe are particularly interesting or important.
 Media coverage: [Center for Connected and Automated Transportation](http://ccat.umtri.umich.edu/ccat-directors-research-published-in-nature-communications/), [University of Michigan](https://cee.engin.umich.edu/stories/more-efficient-testing-method-could-accelerate-the-deployment-of-autonomous-vehicles/), [TechXplore](https://techxplore.com/news/2021-02-intelligence-autonomous.html), [Auto-Testing](https://www.auto-testing.net/news/show-109325.html), 
 [Sohu](https://www.sohu.com/a/449235554_610300).

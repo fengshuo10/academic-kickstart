@@ -15,7 +15,7 @@ design:
   columns: '1'
   
 ---
-* **2021/02**: I will give an online talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at Next Generation Transaction Seminar (NGTS) at the University of Michigan, Ann Arbor.
+* **2021/02**: I will give an online talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at the University of Michigan Next Generation Transportation Seminar.
 * **2021/02**: [Paper](https://ieeexplore.ieee.org/document/9359494) "Robust Platoon Control in Mixed Traffic Flow Based on Tube Model Predictive Control" is accepted by *IEEE Transactions on Intelligent Vehicles*.
 * **2021/01**: [Paper](https://www.nature.com/articles/s41467-021-21007-8) "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" is accepted by *[Nature Communications](https://www.nature.com/ncomms/)*. It has been selected as a featured artical at [Editors' Highlights on "AI and machine learning"](https://www.nature.com/collections/ceiajcdbeb). 
 The aim of [Editors' Highlights](https://www.nature.com/ncomms/editorshighlights) is to select a small number of articales recently published in *Nature Communications* that are particularly interesting or important.

@@ -81,4 +81,6 @@ I was also a visiting Ph.D. student in Civil and Environmental Engineering with 
 
 I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stories/shuo-feng-wins-second-prize-for-ieee-intelligent-transportation-systems-societys-best-phd-dissertation-award/) from the [IEEE Intelligent Transportation Systems Society (ITSS)](https://www.ieee-itss.org/awards-best-dissertation) in 2020. 
 I am serving various roles in multiple academic organizations, including: Member in the [SAE On Road Automated Driving (ORAD) Verification and Validation Task Force](https://www.sae.org/works/committeeHome.do?comtID=TEVAVS4#), and Organizer of the IEEE 2021 Intelligent Vehicles Symposium ["Cooperative Driving in Mixed Traffic" Workshop](https://ziranw.github.io/iv2021workshop/).
+
 My current research interests include [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation), cooperative automation, and traffic environment modeling.
+On these topics, I have published around 20 articles on refereed journals including Nat. Commun., IEEE Trans. Intell. Transp. Syst., IEEE Trans. Control Syst. Technol., and Transp. Res. Part C Emerg. Technol. 

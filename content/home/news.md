@@ -15,6 +15,7 @@ design:
   columns: '1'
   
 ---
+* **2021/05**: I gave an online talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at [Stanford Intelligent Systems Laboratory](https://sisl.stanford.edu/) at Stanford University.
 * **2021/05**: Workshop ["A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning"](https://advml-workshop.github.io/icml2021/) in ICML 2021. Please submit your papers [here](https://advml-workshop.github.io/icml2021/) and win the best paper award!
 * **2021/04**: I gave an online talk titled "ADS safety testing in a naturalistic and adversarial driving environment" at the [National Highway Traffic Safety Administration's (NHTSA) Vehicle Research and Test Center (VRTC)](https://one.nhtsa.gov/Research/Vehicle-Research-&-Testing-(VRTC)).
 * **2021/02**: I gave an online talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at the University of Michigan Next Generation Transportation Seminar.

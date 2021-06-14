@@ -15,6 +15,7 @@ design:
   columns: '1'
   
 ---
+* **2021/06**: Papers ["Corner Case Generation and Analysis for Safety Assessment of Autonomous Vehicles"](https://arxiv.org/abs/2102.03483) and ["A Learning-based Stochastic Driving Model for Autonomous Vehicle Testing"](https://arxiv.org/abs/2102.02602) are accepted by *Transportation Research Record*.
 * **2021/06**: I gave an online talk titled "Safety Assessment of AVs using a Naturalistic and Adversarial Driving Environment — Research Review" with [Dr. Henry Liu](https://traffic.engin.umich.edu/) at the [Center for Connected and Automated Transportation (CCAT) Research Review](https://www.youtube.com/watch?v=yZF0XdP0ri4).
 * **2021/05**: I gave an online talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at [Stanford Intelligent Systems Laboratory](https://sisl.stanford.edu/) at Stanford University.
 * **2021/05**: Workshop ["A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning"](https://advml-workshop.github.io/icml2021/) in ICML 2021. Please submit your papers [here](https://advml-workshop.github.io/icml2021/) and win the best paper award!

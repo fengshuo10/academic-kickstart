@@ -15,6 +15,7 @@ design:
   columns: '1'
   
 ---
+* **2021/07**: I gave an invited talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at the [Reliable Autonomous Systems Lab at MIT](https://realm.mit.edu/).
 * **2021/06**: Papers ["Corner Case Generation and Analysis for Safety Assessment of Autonomous Vehicles"](https://journals.sagepub.com/doi/full/10.1177/03611981211018697) and ["A Learning-based Stochastic Driving Model for Autonomous Vehicle Testing"](https://arxiv.org/abs/2102.02602) are accepted by *Transportation Research Record*.
 * **2021/06**: I gave an online talk titled "Safety Assessment of AVs using a Naturalistic and Adversarial Driving Environment — Research Review" with [Dr. Henry Liu](https://traffic.engin.umich.edu/) at the [Center for Connected and Automated Transportation (CCAT) Research Review](https://www.youtube.com/watch?v=yZF0XdP0ri4).
 * **2021/05**: I gave an online talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at [Stanford Intelligent Systems Laboratory](https://sisl.stanford.edu/) at Stanford University.

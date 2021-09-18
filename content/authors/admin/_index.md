@@ -6,12 +6,12 @@ title: Shuo Feng
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Assistant Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Civil and Environmental Engineering, University of Michigan, Ann Arbor
-  url: https://cee.engin.umich.edu/
+- name: University of Michigan Transportation Research Institute (UMTRI), Ann Arbor
+  url: https://umtri.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include connected and automated vehicle testing and evaluation, cooperative automation, and traffic behavior modeling.
@@ -75,7 +75,7 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a post-doctoral researcher at the [Michigan Traffic Lab](https://traffic.engin.umich.edu/) of the University of Michigan, Ann Arbor, working with [Prof. Henry X. Liu](https://traffic.engin.umich.edu/). 
+I am a Assistant Research Scientist at [University of Michigan Transportation Research Institute (UMTRI)](https://umtri.umich.edu/). Before joining UMTRI, I was a post-doctoral researcher at the [Michigan Traffic Lab](https://traffic.engin.umich.edu/) of the University of Michigan, Ann Arbor, working with [Prof. Henry X. Liu](https://traffic.engin.umich.edu/). 
 I received the bachelor's and Ph.D. degrees in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/), China, in 2014 and 2019, respectively, where I was advised by [Prof. Yi Zhang](http://www.au.tsinghua.edu.cn/info/1084/1701.htm). 
 I was also a visiting Ph.D. student in Civil and Environmental Engineering with University of Michigan from 2017 to 2019, where I was advised by [Prof. Henry X. Liu](https://traffic.engin.umich.edu/).
 
@@ -83,5 +83,5 @@ I received the [Best Ph.D. Dissertation Award](https://cee.engin.umich.edu/stori
 I am serving various roles in multiple academic organizations, including: Member in the [SAE On Road Automated Driving (ORAD) Verification and Validation Task Force](https://www.sae.org/works/committeeHome.do?comtID=TEVAVS4#), Organizer of the IEEE 2021 Intelligent Vehicles Symposium ["Cooperative Driving in Mixed Traffic" Workshop](https://ziranw.github.io/iv2021workshop/),
  and Organizer of the 38nd International Conference on Machine Learning ["A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning" Workshop](https://advml-workshop.github.io/icml2021/).
 
-My current research interests include [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation), cooperative automation, and traffic environment modeling.
-On these topics, I have published around 20 articles on refereed journals including Nat. Commun., IEEE Trans. Intell. Transp. Syst., IEEE Trans. Control Syst. Technol., and Transp. Res. Part C Emerg. Technol. 
+My current research interests lie in the development and validation of safety-critical machine learning, particularly for [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation).
+On these topics, I have published around 20 articles on refereed journals including [Nature Communications](https://www.nature.com/ncomms/), [IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [IEEE Trans. Control Syst. Technol.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87), and [Transp. Res. Part C Emerg. Technol.](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies). 

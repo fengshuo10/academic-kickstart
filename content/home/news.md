@@ -15,7 +15,7 @@ design:
   columns: '1'
   
 ---
-* **2020/10**: [Paper](https://ieeexplore.ieee.org/document/9569746) "Optimal Cooperative Driving at Signal-Free Intersections With Polynomial-Time Complexity" is accepted by *IEEE Transactions on Intelligent Transportation Systems*.
+* **2021/10**: [Paper](https://ieeexplore.ieee.org/document/9569746) "Optimal Cooperative Driving at Signal-Free Intersections With Polynomial-Time Complexity" is accepted by *IEEE Transactions on Intelligent Transportation Systems*.
 * **2021/09**: A toolbox of ["Intelligent Driving Intelligence Test"](https://www.nature.com/articles/s41467-021-21007-8) was implmented at the [American Center for Mobility (ACM)](https://www.acmwillowrun.org/). Learn more about the toolbox for [Introduction](https://www.youtube.com/watch?v=UPzN9BolY_k) and [Demonstration](https://www.youtube.com/watch?v=Sn2ElOvBvvs&t=1s).
 * **2021/07**: I gave an invited talk titled "Intelligent driving intelligence test for autonomous vehicles with naturalistic and adversarial environment" at the [Reliable Autonomous Systems Lab at MIT](https://realm.mit.edu/).
 * **2021/06**: Papers ["Corner Case Generation and Analysis for Safety Assessment of Autonomous Vehicles"](https://journals.sagepub.com/doi/full/10.1177/03611981211018697) and ["Learning-based Stochastic Driving Model for Autonomous Vehicle Testing"](https://journals.sagepub.com/doi/full/10.1177/03611981211035756) are accepted by *Transportation Research Record*.

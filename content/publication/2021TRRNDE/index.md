@@ -6,7 +6,7 @@ title: "Learning-Based Stochastic Driving Model for Autonomous Vehicle Testing"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Lin Liu
-- Shuo Feng*
+- Shuo Feng
 - Yiheng Feng
 - Xichan Zhu
 - Henry X. Liu

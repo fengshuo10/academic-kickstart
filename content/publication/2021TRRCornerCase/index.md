@@ -6,7 +6,7 @@ title: "Corner Case Generation and Analysis for Safety Assessment of Autonomous 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Haowei Sun
-- Shuo Feng\*
+- Shuo Feng \*
 - Xintao Yan
 - Henry X. Liu
 

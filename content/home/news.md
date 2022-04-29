@@ -16,7 +16,7 @@ design:
   
 ---
 * **2022/05**: I will give an invited talk titled "Safety Assessment of Autonomous Vehicles in Test Tracks" at Pactrans Doctoral Webinar Series on May 16th at the University of Washington. If you are interested, please register [here](https://blogs.uw.edu/ceadvice/2022/04/27/pactrans-doctoral-webinar-series-shuo-feng/).
-* **2022/04**: I gave an invited talk titled "SAFE-TEST: Safe AI Framework for Trustworthy Edge Scenario Tests" at the 5th annual CCAT Global Symposium on Connected and Automated Vehicles and Infrastructure on April 13th at the Michigan Union. Register: https://myumi.ch/y9V4V".
+* **2022/04**: I gave an invited talk titled "SAFE-TEST: Safe AI Framework for Trustworthy Edge Scenario Tests" at [the 5th annual CCAT Global Symposium on Connected and Automated Vehicles and Infrastructure](https://ccat.umtri.umich.edu/symposium/2022-symposium/).
 * **2022/04**: I gave an guest lecture titled "Mock On-Road Test for Autonomous Vehicles in Test Tracks" at ME 599 - Dynamics and Control of Connected Vehicles at the University of Michigan, Ann Arbor.
 * **2022/03**: Special issue ["Eco-driving of Connected Electrified Vehicles in Intelligent Transportation Systems"](https://www.sae.org/publications/journals/calls-for-papers-electrified-vehicles/special-issue-eco-driving) on the [SAE International Journal of Electrified Vehicles](https://www.sae.org/publications/collections/content/E-JOURNAL-14). Please submit your papers!
 * **2022/03**: Workshop ["Safety Validation of Connected and Automated Vehicles"](https://www.ieee-itsc2022.org/contribute/workshops) in IEEE-ITSC 2022. Please submit your papers!

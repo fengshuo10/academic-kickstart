@@ -15,7 +15,8 @@ design:
   columns: '1'
   
 ---
-* **2022/07**: I gave an invited talk titled "Safety Assessment of Autonomous Vehicles in Test Tracks" with [Dr. Henry Liu](https://traffic.engin.umich.edu/) at [National Highway Traffic Safety Administration's (NHTSA) Vehicle Research and Test Center (VRTC)](https://one.nhtsa.gov/Research/Vehicle-Research-&-Testing-(VRTC)).
+* **2022/11**: I gave an invited talk titled "Safety validation for autonomous vehicles with naturalistic and adversarial driving environment" at [Michigan State University Robotics and Control Seminar](https://ece.msu.edu/events/robotics-and-control-seminar-12).
+* **2022/07**: I gave an invited talk titled "Mcity Safety Assessment Program" with [Dr. Henry Liu](https://traffic.engin.umich.edu/) at [National Highway Traffic Safety Administration's (NHTSA) Vehicle Research and Test Center (VRTC)](https://one.nhtsa.gov/Research/Vehicle-Research-&-Testing-(VRTC)).
 * **2022/05**: I gave an invited talk titled "Safety Assessment of Autonomous Vehicles in Test Tracks" at Pactrans Doctoral Webinar Series on May 16th at the University of Washington.
 * **2022/04**: I gave an invited talk titled "SAFE-TEST: Safe AI Framework for Trustworthy Edge Scenario Tests" at [the 5th annual CCAT Global Symposium on Connected and Automated Vehicles and Infrastructure](https://ccat.umtri.umich.edu/symposium/2022-symposium/).
 * **2022/04**: I gave an guest lecture titled "Mock On-Road Test for Autonomous Vehicles in Test Tracks" at ME 599 - Dynamics and Control of Connected Vehicles at the University of Michigan, Ann Arbor.

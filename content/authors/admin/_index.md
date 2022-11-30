@@ -75,7 +75,7 @@ highlight_name: false
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am currently a Tenure-Track Assistant Professor in the department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I was an Assistant Research Scientist at [University of Michigan Transportation Research Institute (UMTRI)](https://umtri.umich.edu/). Before joining UMTRI, I was a post-doctoral researcher at the [Michigan Traffic Lab](https://traffic.engin.umich.edu/) of the University of Michigan, Ann Arbor, working with [Prof. Henry X. Liu](https://traffic.engin.umich.edu/). 
+I am currently a Tenure-Track Assistant Professor in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I was an Assistant Research Scientist at [University of Michigan Transportation Research Institute (UMTRI)](https://umtri.umich.edu/). Before joining UMTRI, I was a post-doctoral researcher at the [Michigan Traffic Lab](https://traffic.engin.umich.edu/) of the University of Michigan, Ann Arbor, working with [Prof. Henry X. Liu](https://traffic.engin.umich.edu/). 
 I received the bachelor's and Ph.D. degrees in the Department of Automation at [Tsinghua University](https://www.tsinghua.edu.cn/), China, in 2014 and 2019, respectively, where I was advised by [Prof. Yi Zhang](http://www.au.tsinghua.edu.cn/info/1084/1701.htm). 
 I was also a visiting Ph.D. student in Civil and Environmental Engineering with the University of Michigan from 2017 to 2019, where I was advised by [Prof. Henry X. Liu](https://traffic.engin.umich.edu/).
 

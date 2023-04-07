@@ -6,15 +6,15 @@ title: Shuo Feng
 superuser: true
 
 # Role/position/tagline
-role: Assistant Research Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan Transportation Research Institute (UMTRI), Ann Arbor
-  url: https://umtri.umich.edu/
+- name: Tsinghua University
+  url: https://www.tsinghua.edu.cn/en/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include connected and automated vehicle testing and evaluation, cooperative automation, and traffic behavior modeling.
+bio: My research interests include accelerated testing and training for safety-critical autonomous systems, particularly for autonomous vehicles.
 
 # Interests to show in About widget
 interests:
@@ -85,4 +85,4 @@ Organizer of the 38th International Conference on Machine Learning ["A Blessing 
 and Special Issue Editorial Board of [Engineering](https://www.sciencedirect.com/journal/engineering/about/call-for-papers#safety-for-intelligent-and-connected-vehicles).
 
 My current research interests lie in developing and validating safety-critical machine learning, particularly for [connected and automated vehicle testing and evaluation](https://traffic.engin.umich.edu/research/automated-vehicle-system-testing-and-evaluation).
-On these topics, I have published around 30 articles on refereed journals, including [Nature Communications](https://www.nature.com/ncomms/), [IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [IEEE Trans. Control Syst. Technol.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87), and [Transp. Res. Part C Emerg. Technol.](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies).
+On these topics, I have published around 30 articles on refereed journals, including [Nature](https://www.nature.com/articles/s41586-023-05732-2), [Nature Communications](https://www.nature.com/articles/s41467-021-21007-8), [IEEE Trans. Intell. Transp. Syst.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), [IEEE Trans. Control Syst. Technol.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87), and [Transp. Res. Part C Emerg. Technol.](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies).
